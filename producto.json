@@ -1,0 +1,46 @@
+[ {
+  "idProducto" : 1,
+  "nombreProducto" : "zapatilla",
+  "precioProducto" : 100.0,
+  "stockProducto" : 96
+}, {
+  "idProducto" : 2,
+  "nombreProducto" : "remera",
+  "precioProducto" : 200.0,
+  "stockProducto" : 76
+}, {
+  "idProducto" : 3,
+  "nombreProducto" : "pantalon",
+  "precioProducto" : 300.0,
+  "stockProducto" : 60
+}, {
+  "idProducto" : 4,
+  "nombreProducto" : "gorra",
+  "precioProducto" : 90.0,
+  "stockProducto" : 20
+}, {
+  "idProducto" : 5,
+  "nombreProducto" : "buzo",
+  "precioProducto" : 1000.0,
+  "stockProducto" : 7
+}, {
+  "idProducto" : 6,
+  "nombreProducto" : "campera",
+  "precioProducto" : 600.0,
+  "stockProducto" : 45
+}, {
+  "idProducto" : 7,
+  "nombreProducto" : "bufanda",
+  "precioProducto" : 500.0,
+  "stockProducto" : 50
+}, {
+  "idProducto" : 8,
+  "nombreProducto" : "bota",
+  "precioProducto" : 700.0,
+  "stockProducto" : 38
+}, {
+  "idProducto" : 9,
+  "nombreProducto" : "par de medias",
+  "precioProducto" : 50.0,
+  "stockProducto" : 90
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "idItem" : 1,
+  "cantidadProducto" : 4,
+  "producto" : {
+    "idProducto" : 1,
+    "nombreProducto" : "zapatilla",
+    "precioProducto" : 100.0,
+    "stockProducto" : 100
+  },
+  "subTotal" : 400.0,
+  "idPedido" : null
+}, {
+  "idItem" : 2,
+  "cantidadProducto" : 4,
+  "producto" : {
+    "idProducto" : 2,
+    "nombreProducto" : "remera",
+    "precioProducto" : 200.0,
+    "stockProducto" : 80
+  },
+  "subTotal" : 800.0,
+  "idPedido" : null
+}, {
+  "idItem" : 3,
+  "cantidadProducto" : 5,
+  "producto" : {
+    "idProducto" : 4,
+    "nombreProducto" : "gorra",
+    "precioProducto" : 90.0,
+    "stockProducto" : 20
+  },
+  "subTotal" : 450.0,
+  "idPedido" : 2
+} ]
